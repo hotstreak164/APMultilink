@@ -1,0 +1,33 @@
+Supported_games:
+  Super Metroid:
+    weapon:
+      - Charge Beam
+      - Ice Beam
+      - Wave Beam
+      - Spazer
+      - Plasma Beam
+    armor:
+      - Varia Suit
+      - Gravity Suit
+    bomb:
+      - Bomb
+      - Power Bomb
+      - Power Bomb
+    Movement:
+      - Hi-Jump Boots
+      - Speed Booster
+      - Spring Ball
+      - Space Jump
+      - Grapple Beam
+    Spell:
+      - Screw Attack
+      - Super Missile
+      - Super Missile
+      - Missile
+      - Missile
+      - Super Missile
+    Utility:
+      - X-ray Scope
+  A Link to The Past:
+    weapon:
+      progressive sword: 4

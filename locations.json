@@ -1,0 +1,614 @@
+[
+	{
+		"name": "Weapon 1a",
+		"region": "Weapon1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 1b",
+		"region": "Weapon1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 1c",
+		"region": "Weapon1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 1d",
+		"region": "Weapon1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 2a",
+		"region": "Weapon2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 2b",
+		"region": "Weapon2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 2c",
+		"region": "Weapon2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 2d",
+		"region": "Weapon2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 3a",
+		"region": "Weapon3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 3b",
+		"region": "Weapon3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 3c",
+		"region": "Weapon3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 3d",
+		"region": "Weapon3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 4a",
+		"region": "Weapon4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 4b",
+		"region": "Weapon4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 4c",
+		"region": "Weapon4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 4d",
+		"region": "Weapon4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 5a",
+		"region": "Weapon5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 5b",
+		"region": "Weapon5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 5c",
+		"region": "Weapon5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 5d",
+		"region": "Weapon5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 6a",
+		"region": "Weapon6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 6b",
+		"region": "Weapon6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 6c",
+		"region": "Weapon6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Weapon 6d",
+		"region": "Weapon6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 1a",
+		"region": "Spell1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 1b",
+		"region": "Spell1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 1c",
+		"region": "Spell1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 1d",
+		"region": "Spell1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 2a",
+		"region": "Spell2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 2b",
+		"region": "Spell2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 2c",
+		"region": "Spell2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 2d",
+		"region": "Spell2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 3a",
+		"region": "Spell3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 3b",
+		"region": "Spell3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 3c",
+		"region": "Spell3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 3d",
+		"region": "Spell3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 4a",
+		"region": "Spell4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 4b",
+		"region": "Spell4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 4c",
+		"region": "Spell4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 4d",
+		"region": "Spell4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 5a",
+		"region": "Spell5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 5b",
+		"region": "Spell5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 5c",
+		"region": "Spell5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 5d",
+		"region": "Spell5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 6a",
+		"region": "Spell6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 6b",
+		"region": "Spell6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 6c",
+		"region": "Spell6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Spell 6d",
+		"region": "Spell6",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 1a",
+		"region": "Move1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 1b",
+		"region": "Move1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 1c",
+		"region": "Move1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 1d",
+		"region": "Move1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 2a",
+		"region": "Move2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 2b",
+		"region": "Move2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 2c",
+		"region": "Move2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 2d",
+		"region": "Move2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 3a",
+		"region": "Move3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 3b",
+		"region": "Move3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 3c",
+		"region": "Move3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 3d",
+		"region": "Move3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 4a",
+		"region": "Move4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 4b",
+		"region": "Move4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 4c",
+		"region": "Move4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 4d",
+		"region": "Move4",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 5a",
+		"region": "Move5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 5b",
+		"region": "Move5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 5c",
+		"region": "Move5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Movement 5d",
+		"region": "Move5",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 1a",
+		"region": "Armor1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 1b",
+		"region": "Armor1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 1c",
+		"region": "Armor1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 1d",
+		"region": "Armor1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 2a",
+		"region": "Armor2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 2b",
+		"region": "Armor2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 2c",
+		"region": "Armor2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Armor 2d",
+		"region": "Armor2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 1a",
+		"region": "Bomb1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 1b",
+		"region": "Bomb1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 1c",
+		"region": "Bomb1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 1d",
+		"region": "Bomb1",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 2a",
+		"region": "Bomb2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 2b",
+		"region": "Bomb2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 2c",
+		"region": "Bomb2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 2d",
+		"region": "Bomb2",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 3a",
+		"region": "Bomb3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 3b",
+		"region": "Bomb3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 3c",
+		"region": "Bomb3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Bomb 3d",
+		"region": "Bomb3",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Utility a",
+		"region": "Util",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Utility b",
+		"region": "Util",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Utility c",
+		"region": "Util",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Utility d",
+		"region": "Util",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Charge a",
+		"region": "Charge",
+		"category": ["Charge"],
+		"requires": []
+	},
+	{
+		"name": "Charge b",
+		"region": "Charge",
+		"category": ["Charge"],
+		"requires": []
+	},
+	{
+		"name": "Wave a",
+		"region": "Wave",
+		"category": ["Wave"],
+		"requires": []
+	},
+	{
+		"name": "Wave b",
+		"region": "Wave",
+		"category": ["Wave"],
+		"requires": []
+	},
+	{
+		"name": "Ice a",
+		"region": "Ice",
+		"category": ["Ice"],
+		"requires": []
+	},
+	{
+		"name": "Ice b",
+		"region": "Ice",
+		"category": ["Ice"],
+		"requires": []
+	},
+	{
+		"name": "Spazer a",
+		"region": "Spazer",
+		"category": ["Spazer"],
+		"requires": []
+	},
+	{
+		"name": "Spazer b",
+		"region": "Spazer",
+		"category": ["Spazer"],
+		"requires": []
+	},
+	{
+		"name": "Plasma a",
+		"region": "Plasma",
+		"category": ["Plasma"],
+		"requires": []
+	},
+	{
+		"name": "Plasma b",
+		"region": "Plasma",
+		"category": ["Plasma"],
+		"requires": []
+	}
+]
